@@ -3,7 +3,7 @@ title: New Title
 description: title and description can be changed
 ---
 
-![My Picture](/pics)
+![My Picture](/pics/LinkedInPic.jpg)
 
 This is content I've created for my courses:
 
