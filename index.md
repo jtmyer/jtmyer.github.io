@@ -6,5 +6,5 @@ This is content I've created for my courses:
 
 - [Time Series Decomposition](/TimeSeries/index.md)
 
-![My Picture](/pics/LinkedInPicMed.jpg)
+![My Picture](/pics/LinkedInPicSm.jpg)
 
