@@ -1,6 +1,6 @@
 ---
-title: Home Page
-description: This is the home page for my github
+title: Jacob Myer Data Science
+description: A portfolio of data science projects by Jacob Myer
 ---
 
 I am a student at The College of William & Mary pursuing a Master's in Business Analytics.
