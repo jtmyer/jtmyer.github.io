@@ -2,7 +2,9 @@
 title: Home Page
 description: This is the home page for my github
 ---
-This is content I've created for my courses:
+I am a student at The College of William & Mary pursuing a Master's in Business Analytics.
+
+Here is content I've created for my courses:
 
 - [Time Series Decomposition](/TimeSeries/index.md)
 
